@@ -1,5 +1,5 @@
 {
-  "$comment": "Top-level contract for findings.json. validate-findings.cjs interprets and checks this schema directly.",
+  "$comment": "Top-level contract for findings.json. validate-findings.py interprets and checks this schema directly.",
   "type": "array",
   "items": {
     "oneOf": [
